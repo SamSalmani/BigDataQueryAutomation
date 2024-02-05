@@ -1,1 +1,2 @@
 # BigDataQueryAutomation
+In this project, two programs are designed to automatically extract ground motion time histories in different locations and different time ranges. Using either codes, one can query seismic data available in a specific domain of latitude and longitude using ObsPy library and save them in sac format to save more space. This project was designed for Northern California but it can be changed for other locations.
